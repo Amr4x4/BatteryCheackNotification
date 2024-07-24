@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BatteryCheck</string>
+    <string name="battery_full">Battery is full</string>
+    <string name="battery_low">Battery is Low</string>
+</resources>
